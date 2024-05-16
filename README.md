@@ -20,22 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+ "Natty or Not" 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+video de apresentação de AI
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+chat gpt para roteiro e D-ID para fazer video utilizando AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+apos solicitar roteiro ao chat gpt, utilizei o D-ID para fazer video
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
+(https://studio.d-id.com/share?id=001785982b6f940c07bfd7e5e549a796&utm_source=copy)
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+desafio super bacana para conhecer mas sobre o universo da AI
 ```
 
 ### Exemplos e Insigths
