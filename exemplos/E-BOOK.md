@@ -5,7 +5,7 @@ Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas 
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Ebokmaker](https://ebookmaker.ai)** para criar a arte visual do e-book;
+- IA Generativa **[Ebookmaker](https://ebookmaker.ai)** para criar a arte visual do e-book;
 - Ferramenta **Libre Office** para edição.
 
 ## 🧐 Processo de Criação
